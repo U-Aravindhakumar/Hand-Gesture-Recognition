@@ -6,7 +6,9 @@ This project utilizes computer vision techniques and hand tracking to recognize 
 
 1. Install the required dependencies:
    ```bash
-   pip install opencv-python mediapipe pyautogui
+   pip install opencv-python
+   pip install mediapipe
+   pip install pyautogui ```
 
 ## Usage
 
@@ -18,8 +20,7 @@ The program takes live video feed from your webcam as input. Each frame captured
 
 ## Example Input
 
-The input consists of live video frames captured by the webcam. No additional input data is required from the user. Your right hand is only use. :raised_hand_with_fingers_splayed: is used to play and pasue the video. :v: is used to degrees the volume.:+-1:
-:thumbs_lift: is used to rewind the video.
+The input consists of live video frames captured by the webcam. No additional input data is required from the user. Your right hand is only use. :raised_hand_with_fingers_splayed: is used to play and pasue the video. :v: is used to degrees the volume. lift_side thumpsup  is used to rewind the video. Four finger is used to rise the volume. 
 
 ## Dependencies
 
@@ -27,19 +28,10 @@ The input consists of live video frames captured by the webcam. No additional in
 - MediaPipe (`mediapipe`)
 - PyAutoGUI (`pyautogui`)
 
-## Contributing
-
-Contributions are welcome! Please follow the guidelines in CONTRIBUTING.md.
-
-## License
-
-This project is licensed under the MIT License.
-
 ## Contact
 
-For questions or support, contact your_email@example.com.
+For questions or support, 
+contact: 
+Gmail : msdaravind92@gmail.com
+Phone : 9360379653
 
-## Acknowledgments
-
-- Acknowledgment 1
-- Acknowledgment 2
