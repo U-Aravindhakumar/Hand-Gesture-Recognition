@@ -8,7 +8,7 @@ This project utilizes computer vision techniques and hand tracking to recognize 
    ```bash
    pip install opencv-python
    pip install mediapipe
-   pip install pyautogui ```
+   pip install pyautogui 
 
 ## Usage
 
