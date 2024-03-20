@@ -18,7 +18,7 @@ The program takes live video feed from your webcam as input. Each frame captured
 
 ## Example Input
 
-The input consists of live video frames captured by the webcam. No additional input data is required from the user. Your right hand is only use. :raised_hand_with_fingers_splayed: is used to play and pasue the video. :v: is used to degrees the volume.:+1:
+The input consists of live video frames captured by the webcam. No additional input data is required from the user. Your right hand is only use. :raised_hand_with_fingers_splayed: is used to play and pasue the video. :v: is used to degrees the volume.:+-1:
 :thumbs_lift: is used to rewind the video.
 
 ## Dependencies
